@@ -47,7 +47,7 @@ jobs:
 
       - name: Build static site
         run: |
-          staticjinja build -o build
+          staticjinja build --outpath build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
