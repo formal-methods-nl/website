@@ -1,0 +1,9 @@
+- name: Staticjinja Documentation
+  url: https://staticjinja.readthedocs.io/
+  description: Official documentation for staticjinja.
+- name: GitHub Pages
+  url: https://pages.github.com/
+  description: Information about deploying static sites with GitHub Pages.
+- name: Jinja2 Template Engine
+  url: https://jinja.palletsprojects.com/
+  description: The templating engine used by staticjinja.
