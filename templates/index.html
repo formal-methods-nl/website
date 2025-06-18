@@ -1,9 +1,36 @@
-{% extends "base.html" %}
+{% extends "_base.html" %}
 
 {% block content %}
 
-This is content!
+<h1>Formal methods in the Netherlands</h1>
 
-{% include "links.html" %}
+This website serves as a landing page collecting various events, seminars, lectures and research activities
+on formal methods in the Netherlands.
+
+<h2>Regular events and seminars</h2>
+
+<ul>
+  {% for seminar in seminars %}
+    <li>
+      <a href="{{ seminar.url }}" target="_blank">{{ seminar.name }}</a>
+      <p>{{ seminar.description }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Lectures and summer schools</h2>
+
+<ul>
+  {% for course in teaching %}
+    <li>
+      <a href="{{ course.url }}" target="_blank">{{ course.name }}</a>
+      <p>{{ course.description }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+If you want to add something to this list, please make a pull request to the
+<a href="{{ GITHUB_URL }}">repository</a> of this
+website.
 
 {% endblock %}

@@ -1,0 +1,8 @@
+- name: Informal formalization seminar
+  url: https://jcommelin.github.io/informal-formalization-seminar/
+  description: The Informal Formalization Seminar is a quasi-regular seminar on formalization of
+    mathematics and adjacent subjects. It is organized by Sander Dahmen (VU) and Johan Commelin (UU).
+
+- name: Loki
+  url: loki.html
+  description: Weekly Lean meetup at Utrecht University. Open to everyone, no Lean knowledge required!
