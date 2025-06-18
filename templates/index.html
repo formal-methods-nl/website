@@ -24,7 +24,9 @@ on formal methods in the Netherlands.
   {% for course in teaching %}
     <li>
       <a href="{{ course.url }}" target="_blank">{{ course.name }}</a>
-      <p>{{ course.description }}</p>
+      <p>
+      Date: {{ course.date }}<br>
+      Description: {{ course.description }}</p>
     </li>
   {% endfor %}
 </ul>
