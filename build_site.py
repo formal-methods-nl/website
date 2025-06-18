@@ -9,6 +9,7 @@ site = Site.make_site(
     outpath='build',
     contexts=[
         ('links.html', lambda: {'links': get_links()}),
+        ('index.html', lambda: {'links': get_links()}),
     ],
 )
 site.render()
