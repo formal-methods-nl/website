@@ -8,6 +8,7 @@ def load_yaml(name):
 context = {
     'teaching': load_yaml('teaching'),
     'seminars': load_yaml('seminars'),
+    'uulogicformalization': load_yaml('uu-logic-and-formalization'),
 }
 
 site = Site.make_site(

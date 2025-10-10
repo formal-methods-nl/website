@@ -3,6 +3,11 @@
   description: The Informal Formalization Seminar is a quasi-regular seminar on formalization of
     mathematics and adjacent subjects. It is organized by Sander Dahmen (VU) and Johan Commelin (UU).
 
+- name: Logic and formalization seminar at Utrecht
+  url: uu-logic-and-formalisation
+  description: The logic and formalization seminar is a weekly seminar on topics from logic and formalization
+    run by the logic and formalisation group led by Johan Commelin (UU).
+
 - name: Loki
   url: loki
   description: Weekly Lean meetup at Utrecht University. Open to everyone, no Lean knowledge required!

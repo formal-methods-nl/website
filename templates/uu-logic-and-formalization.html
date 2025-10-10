@@ -1,0 +1,45 @@
+{% extends "_base.html" %}
+
+{% block title %}Logic and Formalization Seminar{% endblock %}
+
+{% block content %}
+
+<h1>Logic and Formalization Seminar at Utrecht University</h1>
+
+The <em>Logic and Formalization Seminar</em> is a weekly seminar on topics from logic
+and formalization. It is run by the logic and formalization group at Utrecht University
+led by <a href="https://math.commelin.net">Johan Commelin</a>.
+
+<h2>Time and Place</h2>
+
+<dl>
+	<dt>Time</dt>
+	<dd>Wednesdays, 14:00 &ndash; 15:00 (Fall 2025)</dd>
+	<dt>Place</dt>
+	<dd><a href={{ HFG_DIRECTIONS }}>HFG</a> 7.07</dd>
+</dl>
+
+{% for semester in uulogicformalization %}
+<h2>Schedule ({{ semester.name }})</h2>
+
+<table>
+<tr>
+<th>Date</th><th>Speaker</th><th>Title</th>
+</tr>
+{% for talk in semester.talks %}
+<tr>
+{% if not talk.cancelled %}
+<td>{{ talk.date }}</td>
+<td>{{ talk.speaker }}</td>
+<td>{{ talk.title }}</td>
+{% else %}
+<td>{{ talk.date }}</td>
+<td><s>{{ talk.speaker }}</s></td>
+<td><s>{{ talk.title }}</s> (Cancelled)</td>
+{% endif %}
+</tr>
+{% endfor %}
+</table>
+{% endfor %}
+
+{% endblock %}

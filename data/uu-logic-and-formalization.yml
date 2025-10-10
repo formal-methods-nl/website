@@ -1,0 +1,81 @@
+- name: Fall 2025
+  talks:
+    - date: 29/10/25
+      speaker: TBA
+      title: TBA (ends at 14:45)
+    - date: 22/10/25
+      speaker: Jelle Wemmenhove
+      title: TBA
+    - date: 15/10/25
+      speaker: Jiedong Jiang
+      title: "The FATE of AI Formal Reasoning: Challenging LLMs with Formal Frontier Algebra"
+    - date: 08/10/25
+      speaker: Ioli Tente
+      title: Model Checking on graphs and the Least Fixed Point Logic
+    - date: 01/10/25
+      speaker: Yu Lan
+      title: Formalizing Syntax Theory and Derivations
+    - date: 24/09/25
+      speaker: Christian Merten
+      title: The spec of a good database library in Lean
+    - date: 17/09/25
+      speaker: Fernando Chu
+      title: A brief introduction to semantics of dependent type theory
+
+- name: Spring 2025
+  talks:
+    - date: 11/06/25
+      speaker: Alex van Tilburg
+      title: Waterproof for "Introduction to proofs"
+    - date: 04/06/25
+      speaker: Pim Otte
+      title: My past open source life and my favourite algorithm
+    - date: 28/05/25
+      speaker: Quinn van der Velden
+      title: Construction of classifying categories as term models
+    - date: 21/05/25
+      speaker: Christian Merten
+      title: Formalising the étale fundamental group
+    - date: 14/05/25
+      speaker: Johan Commelin
+      title: Liquid Tensor Experiment
+    - date: 07/05/25
+      speaker: No seminar
+      title: ""
+    - date: 30/04/25
+      speaker: Johan Commelin
+      title: Condensed type theory
+    - date: 23/04/25
+      speaker: Christian Merten
+      title: autograde - automatically grading Lean submissions in Lean
+    - date: 16/04/25
+      speaker: Vincent Kuhlmann
+      title: Trocq in Lean
+    - date: 09/04/25
+      speaker: Sam Lindauer
+      title: Formalizing differential forms
+    - date: 02/04/25
+      speaker: Fernando Chu
+      title: Observability Type Theory
+    - date: 26/03/25
+      speaker: Raphael Douglas Giles
+      title: TBA
+    - date: 19/03/25
+      speaker: Vincent Kuhlmann
+      title: "Trocq in Lean"
+      cancelled: true
+    - date: 12/03/25
+      speaker: Quinn van der Velden
+      title: Partial categorical logic
+    - date: 26/02/25
+      speaker: No seminar
+      title: ""
+    - date: 19/02/25
+      speaker: No seminar
+      title: ""
+    - date: 12/02/25
+      speaker: Vincent Kuhlmann
+      title: Trocq
+    - date: 05/02/25
+      speaker: Planning session
+      title: ""
