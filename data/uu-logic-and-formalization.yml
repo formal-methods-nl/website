@@ -2,7 +2,16 @@
   talks:
     - date: 17/12/25
       speaker: Jovan Gerbscheid
-      title: TBA
+      title: "New tools for theorem proving in Lean"
+      abstract: |
+        I will present some tactics and tools that I made for Mathlib. I will explain how they work and show them in
+        action with a live demonstration. These include:
+
+        1. A library search tool for finding theorems based on an expression in the tactic state.
+
+        2. The generalized rewriting tactic for rewriting with relations other than equalities.
+
+        3. The to_dual attribute for automatically generating dual versions of theorems.
     - date: 10/12/25
       speaker: Vincent Kuhlmann
       title: "Proof transfer in Lean: my experiences implementing Trocq"

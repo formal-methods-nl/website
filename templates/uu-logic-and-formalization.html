@@ -31,7 +31,16 @@ led by <a href="https://math.commelin.net">Johan Commelin</a>.
 {% if not talk.cancelled %}
 <td>{{ talk.date }}</td>
 <td>{{ talk.speaker }}</td>
-<td>{{ talk.title }}</td>
+<td>
+{% if talk.abstract %}
+<details>
+<summary style="cursor: pointer;">{{ talk.title }}</summary>
+<div style="margin-top: 0.5em; padding-left: 1em; white-space: pre-wrap;"><strong>Abstract:</strong> {{ talk.abstract }}</div>
+</details>
+{% else %}
+{{ talk.title }}
+{% endif %}
+</td>
 {% else %}
 <td>{{ talk.date }}</td>
 <td><s>{{ talk.speaker }}</s></td>
