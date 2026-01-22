@@ -1,5 +1,8 @@
 - name: Fall 2025
   talks:
+    - date: 28/01/26
+      speaker: Fernando Chu
+      title: "Directed Type Theory, with a twist"
     - date: 17/12/25
       speaker: Jovan Gerbscheid
       title: "New tools for theorem proving in Lean"
