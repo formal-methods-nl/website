@@ -1,5 +1,17 @@
 - name: Fall 2025
   talks:
+    - date: 25/02/26
+      speaker: Christian Merten
+      title: "TBA"
+    - date: 18/02/26
+      speaker: Benoit Guillemet
+      title: "TBA"
+    - date: 11/02/26
+      speaker: ??
+      title: "TBA"
+    - date: 04/02/26
+      speaker: Jelle Wemmenhove
+      title: "TBA"
     - date: 28/01/26
       speaker: Fernando Chu
       title: "Directed Type Theory, with a twist"
