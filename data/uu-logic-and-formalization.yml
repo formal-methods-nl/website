@@ -7,8 +7,10 @@
       speaker: Benoit Guillemet
       title: "TBA"
     - date: 11/02/26
-      speaker: ??
-      title: "TBA"
+      speaker: Andrew Yang
+      title: "Zariski's Main Theorem in Lean"
+      abstract: |
+        The latest installment of the saga: How much AG can we do without cohomology?
     - date: 04/02/26
       speaker: Jelle Wemmenhove
       title: "Towards a practical implementation of limits in Lean"
