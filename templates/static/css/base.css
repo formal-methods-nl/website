@@ -48,3 +48,11 @@ th {
   padding-bottom: 12px;
   text-align: left;
 }
+
+.warning {
+  background-color: #fff3cd;
+  border: 1px solid #ffc107;
+  border-radius: 4px;
+  padding: 12px;
+  margin: 1em 0;
+}
