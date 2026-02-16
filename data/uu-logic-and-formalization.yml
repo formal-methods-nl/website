@@ -3,6 +3,9 @@
     - date: 11/03/26
       speaker: "Yu-Lan Dibbits"
       title: "Formalizing the Consistency of Syntax Theory in Lean: Exploring the usability of mathlib for formal logic"
+    - date: 04/03/26
+      speaker: "Pim Otte"
+      title: "Lean support in Waterproof"
     - date: 25/02/26
       speaker: Anne Baanen
       title: "TBA"
