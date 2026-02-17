@@ -8,7 +8,9 @@
       title: "Lean support in Waterproof"
     - date: 25/02/26
       speaker: Anne Baanen
-      title: "TBA"
+      title: "Maintaining the Lean Mathematical Library"
+      abstract: |
+        Mathlib is one of the fastest growing libraries of formalized mathematics, needing constant maintainer attention to manage this growth. In this talk I will discuss our technical and social solutions for aiming for completeness inside one consistent library, and try to draw some mathematical lessons from some notable (re)design decisions we made along the way.
     - date: 18/02/26
       speaker: Benoit Guillemet
       title: "TBA"
