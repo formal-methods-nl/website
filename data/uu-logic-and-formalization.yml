@@ -1,4 +1,4 @@
-- name: Fall 2025
+- name: Spring 2026
   talks:
     - date: 1/04/26
       speaker: Johan Commelin
@@ -34,6 +34,8 @@
     - date: 28/01/26
       speaker: Fernando Chu
       title: "Directed Type Theory, with a twist"
+- name: Fall 2025
+  talks:
     - date: 17/12/25
       speaker: Jovan Gerbscheid
       title: "New tools for theorem proving in Lean"
