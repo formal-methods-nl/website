@@ -2,7 +2,7 @@
   talks:
     - date: 8/04/26
       speaker: Jacob Scharmberg 
-      title: TBA
+      title: "Formalizing Eilenberg-Steenrod homology theories in Lean 4"
     - date: 1/04/26
       speaker: Johan Commelin
       title: TBA
