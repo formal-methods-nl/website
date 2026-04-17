@@ -1,10 +1,16 @@
 - name: Spring 2026
   talks:
+    - date : 27/05/26
+      speaker: Michael Rothgang
+      title: "TBA"
+    - date : 13/05/26
+      speaker: Robin Carlier
+      title: "TBA"
     - date : 22/04/26
       speaker: Viktor Blåsjö
       title: "A historical perspective on formal versus informal mathematics"
     - date: 1/04/26
-      speaker: Jacob Scharmberg 
+      speaker: Jacob Scharmberg
       title: "Formalizing Eilenberg-Steenrod homology theories in Lean 4"
     - date: 25/03/26
       speaker: Johan Commelin
