@@ -1,8 +1,8 @@
 - name: Spring 2026
   talks:
     - date : 27/05/26
-      speaker: Michael Rothgang
-      title: "TBA"
+      speaker: Everyone
+      title: "Brainstorm on various topics"
     - date : 13/05/26
       speaker: Robin Carlier
       title: "Formalizing Unbiased Symmetric Monoidal Categories"
