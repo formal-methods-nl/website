@@ -1,7 +1,12 @@
 - name: Utrecht Summerschool on Formalizing Mathematics in Lean
-  url: https://jcommelin.github.io/uu-summer-school/
-  date: July 21 to July 25, 2025
+  url: https://formal-methods.nl/uu-summer-school/2026/
+  date: August 17 to August 21, 2026
   description: Summerschool for students of mathematics interested in formal methods.
+
+- name: Formal Methods in Mathematics 2026
+  url: https://elo.mastermath.nl/enrol/index.php?id=1251
+  date: Summer term 2026
+  description: Course for Master students in mathematics in the Mastermath program
 
 - name: Formal Methods in Mathematics 2025
   url: https://elo.mastermath.nl/enrol/index.php?id=1121
