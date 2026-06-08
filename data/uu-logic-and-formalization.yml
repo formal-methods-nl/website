@@ -11,7 +11,15 @@
       title: "Waterproof"
     - date : 10/06/26
       speaker: Michael Rothgang
-      title: "TBA"
+      title: "Differential geometry in Mathlib: present and future"
+      abstract: |
+        I will give an overview on differential geometry in Mathlib. We will see how finding the right
+        definitions is hard work, as Mathlib is much more general than paper mathematics. We learn what
+        is currently in the library, what is coming soon and where you can help. I will comment on the
+        technical challenges of working with manifolds in Lean and how to address them --- including
+        through better abstractions and domain-specific automation. As a case study, I will talk
+        about very recent joint work with Heather Macbeth and Patrick Massot, formalising the Levi-Civita
+        connection, curvature and geodesics on Riemannian manifolds.
     - date : 27/05/26
       speaker: Everyone
       title: "Brainstorm on various topics"
