@@ -13,6 +13,7 @@ context = {
 
 site = Site.make_site(
     outpath='build',
+    staticpaths=['static'],
     contexts=[
         ('.*', lambda: {**context, **load_yaml('constants')}),
     ],
