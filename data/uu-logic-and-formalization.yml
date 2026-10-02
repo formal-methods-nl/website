@@ -1,11 +1,11 @@
 - name: Fall 2026
   talks:
+    - date : 15/10/26
+      speaker: Fernando Chu
+      title: "Type theoretic solutions to reducibility issues"
     - date : 08/10/26
       speaker: Jente Wemmenhove
       title: "Nonstandard analysis in type theory"
-    - date : 08/10/26
-      speaker: Fernando Chu
-      title: "Type theoretic solutions to reducibility issues"
     - date : 01/10/26
       speaker: Raphael Douglas Giles
       title: "Divisors and cycles in lean"
