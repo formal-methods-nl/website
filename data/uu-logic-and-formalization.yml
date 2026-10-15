@@ -1,5 +1,8 @@
 - name: Fall 2026
   talks:
+    - date : 22/10/26
+      speaker: Julia Zanette
+      title: "Terms of a Type as Fixed Points of an Idempotent Operator"
     - date : 15/10/26
       speaker: Fernando Chu
       title: "Type theoretic solutions to reducibility issues"
