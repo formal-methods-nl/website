@@ -1,5 +1,11 @@
 - name: Fall 2026
   talks:
+    - date: 5/11/26
+      speaker: "Pim Otte"
+      title: "Controlled Natural Language in proof assistants (9:45-10:45)"
+    - date: 29/10/26
+      speaker: "Ansar Azhdarov"
+      title: "TBA (9:45-10:45)"
     - date : 22/10/26
       speaker: Julia Zanette
       title: "Terms of a Type as Fixed Points of an Idempotent Operator (9:45-10:45)"
