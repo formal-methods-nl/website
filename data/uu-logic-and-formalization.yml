@@ -1,5 +1,8 @@
 - name: Fall 2026
   talks:
+    - date: 18/11/26
+      speaker: "Thomas van Maaren"
+      title: "Formalization of Geometric Algorithm (Work in progress)"
     - date: 5/11/26
       speaker: "Pim Otte"
       title: "Controlled Natural Language in proof assistants (9:45-10:45)"
